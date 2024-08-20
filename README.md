@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nutakoooye
-- 👀 I’m interested in creating the backend of website.
-- 🌱 I’m currently learning development django/python
+- 🍄 My primary programming languages is C# and Python.
+- 👀 I’m interested in Web(ASP.NET) and desctop applications(AvaloniaUI).
 - 📫 If you are interested in cooperation, please write to me by e-mail.
 
 <!---
