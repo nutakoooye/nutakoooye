@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nutakoooye
 - 🍄 My primary programming languages is C# and Python.
-- 👀 I’m interested in Web(ASP.NET) and desctop applications(AvaloniaUI).
+- 👀 I’m interested in Desktop development(Primary AvaloniaUI), Web(ASP.NET) and some gamedev(Unity).
 - 📫 If you are interested in cooperation, please write to me by e-mail.
 
 <!---
